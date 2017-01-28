@@ -36,3 +36,4 @@ jdepend.svg
 .buildpath
 .project
 .settings/
+.externalToolBuilders/
